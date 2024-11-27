@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hamza Nazir</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-nazir&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-nazir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamzaa_nazirr" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaa_nazirr?logo=twitter&style=for-the-badge" alt="hamzaa_nazirr" /></a> </p>
 
@@ -19,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-nazir&show_icons=true&locale=en" alt="hamza-nazir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-nazir&" alt="hamza-nazir" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-nazir&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-nazir" /> </p>
