@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 
-<p align="left"> <a href="https://twitter.com/hamzaa_nazirr" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaa_nazirr?logo=twitter&style=for-the-badge" alt="hamzaa_nazirr" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
