@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mirza Hamza ⚜️</h1>
-<h3 align="center">A Passionate MERN Stack Developer 🇵🇰</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
 ---
 
